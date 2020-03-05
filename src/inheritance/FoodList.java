@@ -10,6 +10,8 @@ import java.util.Scanner;
 /**
  *
  * @author Muhammad
+ * 
+ * @modifier Parneet
  */
 public class FoodList {
 
