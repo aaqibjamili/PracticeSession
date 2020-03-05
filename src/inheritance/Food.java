@@ -11,6 +11,7 @@ package inheritance;
  * if you use same method in a child and parent class, it overrides the super class method with the subclass ones
  *
  * @author Muhammad
+ @modifier parneet
  */
 public class Food {
     private int tasteLevel=9;
